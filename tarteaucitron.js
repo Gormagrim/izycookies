@@ -395,7 +395,7 @@ var tarteaucitron = {
                 html += '         </ul>';
                 html += '         <div class="tarteaucitronHidden tarteaucitron-spacer-20" id="tarteaucitronScrollbarChild"></div>';
                 if (tarteaucitron.parameters.removeCredit === false) {
-                    html += '     <a class="tarteaucitronSelfLink" href="https://www.izylify.net" rel="nofollow noreferrer noopener" target="_blank" title="iZyLiFy ' + tarteaucitron.lang.newWindow + '"><img style="width:110px" src="https://www.izylify.net/wp-content/uploads/2022/10/iZyLiFy-Conception-web-Logo-cookies-big-Agence-web-SEO-dans-l-Oise.webp" alt="Logo iZyLiFy Conception Web" /></a>';
+                    html += '     <a class="tarteaucitronSelfLink" href="https://www.izylify.net" rel="nofollow noreferrer noopener" target="_blank" title="iZyLiFy ' + tarteaucitron.lang.newWindow + '"><img style="width:110px" src="https://www.izylify.net/wp-content/uploads/2022/10/Logo-iZyLiFy-Agence-web-SEO-dans-lOise-a-Noyon-Compiegne.webp" alt="Logo iZyLiFy Conception Web" /></a>';
                 }
                 html += '       </div>';
                 html += '   </div>';
