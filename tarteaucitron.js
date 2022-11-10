@@ -329,7 +329,7 @@ var tarteaucitron = {
                 html += '   </button>';
                 html += '   <div id="tarteaucitronServices">';
                 html += '      <div class="tarteaucitronLine tarteaucitronMainLine" id="tarteaucitronMainLineOffset">';
-                html += '         <span class="tarteaucitronH1" style="font-size:20px" role="heading" aria-level="1" id="dialogTitle"><span><img style="width:20px" class="fit-picture" src="https://www.izylify.fr/wp-content/plugins/izycookies/assets/img/iZyLiFy-Conception-web-Logo-cookies-big-Agence-web-SEO-dans-l-Oise.webp" alt="Logo iZyCookies"></span><span style="color:#F8C680">  '+ tarteaucitron.lang.izycookies + '</span> <span><a  style="font-size:12px;color:#fff;font-weight:60" href="https://www.izylify.net">' + tarteaucitron.lang.izylify + '</a></span></span>';
+                html += '         <span class="tarteaucitronH1" style="font-size:20px" role="heading" aria-level="1" id="dialogTitle"><span><img style="width:20px" class="fit-picture" src="/img/iZyLiFy-Conception-web-Logo-cookies-big-Agence-web-SEO-dans-l-Oise.webp" alt="Logo iZyCookies"></span><span style="color:#F8C680">  '+ tarteaucitron.lang.izycookies + '</span> <span><a  style="font-size:12px;color:#fff;font-weight:60" href="https://www.izylify.net">' + tarteaucitron.lang.izylify + '</a></span></span>';
                 html += '         <span class="tarteaucitronH1" role="heading" aria-level="1" id="dialogTitle">'+ tarteaucitron.lang.title + '</span>';
                 html += '         <div id="tarteaucitronInfo">';
                 html += '         ' + tarteaucitron.lang.disclaimer;
