@@ -431,7 +431,7 @@ var tarteaucitron = {
                     html += '   <span id="tarteaucitronDisclaimerAlert">';
 
                     if (tarteaucitron.parameters.highPrivacy) {
-                        html += '       <div style="margin-bottom:10px;text-align:center"><span><img style="width:25px" class="fit-picture" src="https://www.decopoly.izylifydev.fr/wp-content/plugins/izycookies/assets/img/iZyLiFy-Conception-web-Logo-cookies-big-Agence-web-SEO-dans-l-Oise.webp" alt="Logo iZyCookies"></span> <span style="color:#F8C680">' + tarteaucitron.lang.izycookies + '</span> <span style="font-size:12px;color:#fff">' + tarteaucitron.lang.izylify + '</span></div><br />';
+                        html += '       <div style="margin-bottom:10px;text-align:center"><span><img style="width:25px" class="fit-picture" src="/img/iZyLiFy-Conception-web-Logo-cookies-big-Agence-web-SEO-dans-l-Oise.webp" alt="Logo iZyCookies"></span> <span style="color:#F8C680">' + tarteaucitron.lang.izycookies + '</span> <span style="font-size:12px;color:#fff">' + tarteaucitron.lang.izylify + '</span></div><br />';
                         html += '       ' + tarteaucitron.lang.alertBigPrivacy;
                     } else {
                         html += '       ' + tarteaucitron.lang.alertBigClick + ' ' + tarteaucitron.lang.alertBig;
